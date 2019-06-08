@@ -1,5 +1,5 @@
 # Pig-Game
-Pig game using JavaScript
+Pig game using JavaScript, play it right [here](https://rajat-pig-game.netlify.com/).
 
 ### GAME RULES:
 
