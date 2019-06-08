@@ -1,7 +1,7 @@
 # Pig-Game
-Pig game using JavaScript, play it right [here](https://rajat-pig-game.netlify.com/).
+### Pig game using JavaScript, play it right [here](https://rajat-pig-game.netlify.com/).
 
-### GAME RULES:
+## GAME RULES:
 
 - The game has 2 players, playing in rounds
 - In each turn, a player rolls a dice as many times as he whishes. Each result get added to his ROUND score
